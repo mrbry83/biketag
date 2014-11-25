@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Bike Tags</name>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #25 (2nd pic deleted)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/49ER027.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Lunada Bay, Palos Verdes]]></description>
+			<Point>
+				<coordinates>-118.4208216,33.7704791,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #24 (1st pic deleted)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/ciHcVlW.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Mural behind Whole Foods on Lincoln & Rose]]></description>
+			<Point>
+				<coordinates>-118.4699938,34.0005678,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #23 (2nd pic deleted)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/I7qDBja.jpg </value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Culver City Middle School - Ballona Creek Bike Path Entrance]]></description>
+			<Point>
+				<coordinates>-118.399037,34.006059,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #22</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/VAQqOr7.png http://i.imgur.com/SzVZgNY.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Hobbit House]]></description>
+			<Point>
+				<coordinates>-118.3992164,34.0225116,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #21</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/1KmZgwm.jpg http://i.imgur.com/d3jQ1w7.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Kenneth Hahn State Recreation Area]]></description>
+			<Point>
+				<coordinates>-118.359486,34.007688,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #20 (first pic deleted)</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/lgHuuox.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Venice Canals]]></description>
+			<Point>
+				<coordinates>-118.4659946,33.9838996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #19</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/FyXQPDG.jpg http://i.imgur.com/7pS6QDs.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Parking Lot 4th & Olympic - View of SMPD & City Hall]]></description>
+			<Point>
+				<coordinates>-118.490261,34.011645,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #18</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/YDZgsEK.jpg http://i.imgur.com/E34jNmI.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Binocular building in Venice]]></description>
+			<Point>
+				<coordinates>-118.4770667,33.9954388,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #17</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/wE6aYrS.jpg http://i.imgur.com/iolt7o1.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Outside of Encino Velodrome]]></description>
+			<Point>
+				<coordinates>-118.5099399,34.1801929,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #16</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/khvh1vB.jpg http://i.imgur.com/knrWG0g.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[NIKE Missile Control Site]]></description>
+			<Point>
+				<coordinates>-118.51314779999998,34.1281297,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #15 - Approximate</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/jihVEXM.jpg http://i.imgur.com/au3Cb41.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Franklin Canyon Reservoir]]></description>
+			<Point>
+				<coordinates>-118.413949,34.10395170000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #14</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/rYQ8gKu.jpg http://i.imgur.com/WXxJO27.jpg?1</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Abbot Kinney Mural]]></description>
+			<Point>
+				<coordinates>-118.4702311,33.9918251,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #13</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/UUw0Hir.jpg http://i.imgur.com/wAqPpRI.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Ocean Totem Pole]]></description>
+			<Point>
+				<coordinates>-118.5151836,34.0269283,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #12</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/zjl7j3q.jpg http://i.imgur.com/ewBfKxZ.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Sunset Plaza Drive near the top]]></description>
+			<Point>
+				<coordinates>-118.3870066,34.1041076,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #11 - Approximate</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/diheYeO.jpg http://i.imgur.com/Owh71RK.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[VA Parking Lot]]></description>
+			<Point>
+				<coordinates>-118.452441,34.051553,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #10</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/gRcjfvr.jpg http://i.imgur.com/R8FQ6ik.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[MacArthur Park]]></description>
+			<Point>
+				<coordinates>-118.279101,34.0581838,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #9</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/-JEgKYlAKjQk/U7IwRZ8eSLI/AAAAAAAAHIs/Itxl2BNIkvE/ http://i.imgur.com/78DS71p.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Canter's on Fairfax]]></description>
+			<Point>
+				<coordinates>-118.3613683,34.0789848,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #8</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/GGWEMCJ.jpg https://lh3.googleusercontent.com/-ydcBBIYoGQw/U7IwUFlEe_I/AAAAAAAAHI0/mx6C6smeU2s/</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Iliad Book Shop Cahuenga and Chandler]]></description>
+			<Point>
+				<coordinates>-118.36166740000002,34.1686448,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #7</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/2yvRrk7.jpg http://i.imgur.com/cDAdllZ.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Universal Studios at Lankershim]]></description>
+			<Point>
+				<coordinates>-118.36237550000001,34.1388753,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #6</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/3DFwi0P.jpg http://i.imgur.com/GwkkKdm.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Charles and Lotte Melhorn Overlook]]></description>
+			<Point>
+				<coordinates>-118.4336123,34.1315334,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #5</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/4nnRpXc.jpg http://i.imgur.com/NMYQC1C.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Santa Monica City Hall]]></description>
+			<Point>
+				<coordinates>-118.4916875,34.0116375,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #4 - Approximate</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/OWXCFLp.jpg http://i.imgur.com/b1cuRYd.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Fairfax & Venice DWP]]></description>
+			<Point>
+				<coordinates>-118.37063669999999,34.03918250000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #3</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/Zm1DXwo.jpg http://i.imgur.com/DJY7CfV.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Culver City outside of Jr's BBQ]]></description>
+			<Point>
+				<coordinates>-118.37254909999999,34.0304182,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #2</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/lPcCPCq.jpg http://i.imgur.com/aj0OPgd.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Angle Statue outside of FIDM]]></description>
+			<Point>
+				<coordinates>-118.2597595,34.0440599,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<name>Tag #1</name>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>http://i.imgur.com/lbLdu1f.jpg http://i.imgur.com/hzKwMhn.jpg</value>
+				</Data>
+			</ExtendedData>
+			<description><![CDATA[Wilshire Park Place]]></description>
+			<Point>
+				<coordinates>-118.3071971,34.0611903,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
